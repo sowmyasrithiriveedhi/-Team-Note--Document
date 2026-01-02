@@ -1,3 +1,4 @@
 "#Working on document updates."
 "1.Read the document."
 "2.Update documentation text."
+"3.Understand the project requirements and scope."
