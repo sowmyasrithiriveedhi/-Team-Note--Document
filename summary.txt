@@ -1,3 +1,4 @@
 "# project summary:"
 "1.review the document"
 "2.summarize the document"
+"3. Objective of the Project and Key Features"
